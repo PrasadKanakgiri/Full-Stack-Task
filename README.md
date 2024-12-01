@@ -1,7 +1,7 @@
 Here is the provided content formatted as a `README.md` file:
 
 ```markdown
-# **Task Management Application**
+# Task Management Application
 
 A full-stack task management application built using the **MERN stack** (MongoDB, Express, React, and Node.js). This application allows users to create, view, update, and delete tasks with filtering, sorting, and notifications.
 
