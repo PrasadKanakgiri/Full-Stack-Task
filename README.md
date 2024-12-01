@@ -135,16 +135,6 @@ task-management-app/
 
 ---
 
-## **Screenshots**
-
-### **Task List and Sorting**
-![Task List](https://via.placeholder.com/600x400)
-
-### **Task Form**
-![Task Form](https://via.placeholder.com/600x400)
-
----
-
 ## **Future Enhancements**
 
 - User authentication (login/signup).
