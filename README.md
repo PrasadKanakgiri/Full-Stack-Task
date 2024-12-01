@@ -47,7 +47,7 @@ A full-stack task management application built using the **MERN stack** (MongoDB
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/task-management-app.git
-   cd task-management-app/backend
+   cd backend
 
 2. Install dependencies:
    ```bash
@@ -57,12 +57,12 @@ A full-stack task management application built using the **MERN stack** (MongoDB
 3. Create a `.env` file in the `backend` directory with the following:
    ```plaintext
    PORT=8000
-   MONGO_URI=mongodb://localhost:27017/task-management
+   MONGO_URI=mongodb+srv://kanakgiriprasad26:Prasad%40123422110709@cluster0.x07dzcp.mongodb.net
    ```
 
 4. Start the server:
    ```bash
-   npm start
+   npm run dev
    ```
    The backend will be running at `http://localhost:8000`.
 
